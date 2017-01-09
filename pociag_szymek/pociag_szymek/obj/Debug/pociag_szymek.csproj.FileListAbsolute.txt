@@ -1,0 +1,14 @@
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\bin\Debug\pociag_szymek.exe.config
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\bin\Debug\pociag_szymek.exe
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\bin\Debug\pociag_szymek.pdb
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek.csprojResolveAssemblyReference.cache
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\MainWindow.g.cs
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\App.g.cs
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek_MarkupCompile.cache
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek_MarkupCompile.lref
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\MainWindow.baml
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek.g.resources
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek.Properties.Resources.resources
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek.csproj.GenerateResource.Cache
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek.exe
+c:\users\szymek\documents\visual studio 2015\Projects\pociag_szymek\pociag_szymek\obj\Debug\pociag_szymek.pdb
